@@ -7,4 +7,4 @@ Para rodar o projeto instale as dependencias e suba o servidor com
 ou
 `yarn start`
 
-O server estará disponível na porta 3000.
+O server estará disponível na porta 3001.
